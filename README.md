@@ -13,6 +13,17 @@ It includes **database normalization (3NF), indexing, querying, and data warehou
 - **SQL** (Schema, Queries, Indexing)
 - **Data Warehousing**
 - **Optimization & Performance Tuning**
+- 
+## 📂 Project Files
+
+📜 **[Database Schema (schema.sql)](schema.sql)**  
+This file contains the SQL scripts to create the **CAMPDB** (normalized database) and **CAMPDW** (data warehouse).
+
+📜 **[SQL Queries (queries.sql)](queries.sql)**  
+Includes SQL queries for **data analysis, indexing, and business intelligence**.
+
+📜 **[Project Documentation (CampDB.md)](CampDB.md)**  
+A detailed explanation of the **database design, normalization process, query logic, and data warehouse implementation**.
 
 ## 🚀 How to Use
 1. Clone the repository:
