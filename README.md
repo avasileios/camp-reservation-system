@@ -28,6 +28,10 @@ A detailed explanation of the **database design, normalization process, query lo
 Due to file size limits, the dataset is hosted externally.  
 📥 [Download campData.txt from Google Drive](https://drive.google.com//file/d/1Rk7QjG_C_vbQ3LheeZB27Xt0kWPOlJnP/view?usp=sharing)
 
+## 📜 License
+This project is **open-source** under the MIT License.  
+You are free to **use, modify, and share** it for educational or commercial purposes. 
+
 ## 🚀 How to Use
 1. Clone the repository:
    ```sh
