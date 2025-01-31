@@ -22,7 +22,7 @@ This file contains the SQL scripts to create the **CAMPDB** (normalized database
 📜 **[SQL Queries (queries.sql)](queries.sql)**  
 Includes SQL queries for **data analysis, indexing, and business intelligence**.
 
-📜 **[Project Documentation (CampDB.md)](CampDB.md)**  
+📜 **[Project Documentation (CampDb.md)](CampDb.md)**  
 A detailed explanation of the **database design, normalization process, query logic, and data warehouse implementation**.
 
 ## 🚀 How to Use
